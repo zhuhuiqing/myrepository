@@ -1,11 +1,8 @@
 class Test{
+11111111
+22222222
+333333
 
 
-	public String str;
-
-	public String name;
-	
-	int age;
 
 
-}
