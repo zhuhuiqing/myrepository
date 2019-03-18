@@ -1,8 +1,11 @@
-class Test{
-11111111
-22222222
-333333
-4444444444444444
+class Test {
 
-55555555555555
+    String name;
+    int age;
 
+    public static void main(String[] args) {
+        System.out.println(args);
+    }
+
+
+}
